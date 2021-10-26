@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "607219192624",
+    "project_id": "kit-safe",
+    "storage_bucket": "kit-safe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607219192624:android:2b56dc2202ad03f42e2ef5",
+        "android_client_info": {
+          "package_name": "com.example.kit_safe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607219192624-elemkudqgv2ea807lfgccjbhlebtqd89.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kit_safe",
+            "certificate_hash": "d56bd44f53ad9bdef0071796a89db098a6c50eb2"
+          }
+        },
+        {
+          "client_id": "607219192624-ghvmk7j31074h9e4h975f8lret0ve3d0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwk47uj9gNs3cTLKEc53tx9KY7Za069H4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607219192624-ghvmk7j31074h9e4h975f8lret0ve3d0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
